@@ -1,0 +1,6 @@
+locust
+pandas
+tensorflow-gpu
+keras
+scikit-learn
+matplotlib
